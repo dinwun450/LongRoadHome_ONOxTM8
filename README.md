@@ -201,4 +201,4 @@ If these ports are in use, you can modify them in:
 
 ## License
 
-See [LICENSE](./LICENSE) for details.
+See [LICENSE](./LICENSE) for details. It's coming soon.
